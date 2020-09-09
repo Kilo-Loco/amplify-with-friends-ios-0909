@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "uploadinsomestuffcf0be7ba": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  },
+  "storage": {
+    "s311eecdd9": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
